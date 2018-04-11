@@ -15,4 +15,4 @@ Zumo Automation Project
 
 -The Brandeis University Robotics Club  
 <img src="https://a.pololu-files.com/picture/0J6721.1200.jpg?f23bb5e39014c5721350a43b8c0e8fe4" width="200" height="200">
-![Brandeis University Logo][https://www.brandeis.edu/communications/creative/downloads/gotham-outlined.jpg]
+![Brandeis University Logo](https://www.brandeis.edu/communications/creative/downloads/gotham-outlined.jpg)
